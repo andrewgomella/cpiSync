@@ -1,0 +1,19 @@
+1 second exposure time 
+
+Entire expose sequence once (middle of scan):
+1.216 seconds
+
+Slow sections total : 200 ms 
+----------------------------------------
+doc string~ 					 93 ms
+start outputs to end outputs~  1063 ms (63 ms extra)
+ending sequence~                 44 ms 
+
+Entire expose sequence once (middle of scan):
+1.207 seconds
+
+Slow sections total : 200 ms 
+----------------------------------------
+doc string~ 					 90 ms
+start outputs to end outputs~  1063 ms (63 ms extra)-48 due to nikon shutter delay
+ending sequence~ 44                
